@@ -1,7 +1,7 @@
 ext.build_versions = [
         compileSdkVersion : 30,
         buildToolsVersion : "30.0.2",
-        minSdkVersion : 21,
+        minSdkVersion : 23,
         targetSdkVersion : 30,
 ]
 
